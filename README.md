@@ -15,3 +15,5 @@ Les données utilisées pour ce projet sont un sous-ensemble des données fourni
 ####  - Implentation de l'algorithme de Distributed Stochastic Gradient
 
 ####  -  Comparaison des temps de calcul de l'algorithme
+
+
