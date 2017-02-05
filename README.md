@@ -1,4 +1,5 @@
-# Software Elements for Big Data Analysis @ ENSAE ParisTech by [Xavier Dupré](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_3a.html) and [Xavier Durut](https://www.linkedin.com/in/matthieudurut)
+# Software Elements for Big Data Analysis 
+Course @ ENSAE ParisTech by [Xavier Dupré](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_3a.html) and [Xavier Durut](https://www.linkedin.com/in/matthieudurut)
 
 # Projet : Distributed Stochastic Gradient Descent
 
